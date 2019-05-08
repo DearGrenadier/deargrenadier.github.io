@@ -51,8 +51,10 @@ In a nutshell, a link in UNIX is a pointer to a file or directory.
 * A soft link **_can link to a directory._**
 * Link across filesystems: If you want to link files across the filesystems, you can only use symlinks/soft links.
 
-{% include responsive-embed url="https://www.youtube.com/watch?v=4-vye3QFTFo" ratio="16:9" %}
-
+<!-- 16:9 aspect ratio -->
+<div class="responsive-embed responsive-embed-16by9">
+  <iframe class="responsive-embed-item" src="https://www.youtube.com/watch?v=4-vye3QFTFo"></iframe>
+</div>
 
 [inode-definition]:         http://www.linfo.org/inode.html
 [soft-hard-links]:          https://www.geeksforgeeks.org/soft-hard-links-unixlinux/
