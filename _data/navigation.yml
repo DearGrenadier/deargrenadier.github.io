@@ -1,0 +1,8 @@
+- title: posts
+  url: /posts/
+- title: categories
+  url: /categories/
+- title: tags
+  url: /tags/
+- title: External Page
+  url: https://whatever-site.com/page.html
